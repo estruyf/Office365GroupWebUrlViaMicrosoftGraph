@@ -20,4 +20,4 @@ Follow the next steps to test out this sample:
 
 ## More info
 
-Check out the following article to learn more about this sample: [Get the site URL of an Office 365 Group via the Microsoft Graph](https://www.eliostruyf.com/)
+Check out the following article to learn more about this sample: [Get the site URL of an Office 365 Group via the Microsoft Graph](https://www.eliostruyf.com/get-the-site-url-of-an-office-365-group-via-the-microsoft-graph/)
